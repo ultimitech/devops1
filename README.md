@@ -1,4 +1,4 @@
-# TutoriaLinux Digitalocean Terraform mini-course extravaganza!
+# DevOps Demo Project 1
 A quick terraform tutorial for setting up load balanced web servers in digitalocean.
 
 This repository goes along with the [free YouTube terraform course](https://www.youtube.com/watch?v=1JAx2npuprk&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO)
