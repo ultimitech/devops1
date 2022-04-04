@@ -1,5 +1,5 @@
 # DevOps Demo Project 1
-Client proposal project (proof of concept or POC) demonstrating setting  up and tearing down of entire AWS infrastructure stack. Tools and technologies include Ansible, Terraform, Jenkins, AWS Cloud, and Docker.
+Client proposal project (proof of concept or POC) demonstrating setting  up and tearing down of entire AWS infrastructure stack. Tools and technologies include Ansible, Terraform, Jenkins, AWS Cloud, and Docker. Project consisted of automatic provisioning of AWS cloud infrastructure, Ansible configuration management, and containerization of web application(s) using Docker.<br>
 Showcase project featuring real-world use cases based off of actual freelance client consulting work.
 
 This repository goes along with the [free YouTube terraform course](https://www.youtube.com/watch?v=1JAx2npuprk&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO)
