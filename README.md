@@ -15,7 +15,7 @@ Have fun!
 
 1. Clone this repo:
 
-`git clone https://github.com/groovemonkey/digitalocean-terraform.git`
+`git clone https://github.com/ultimitech/devops1.git`
 
 1. Set up DigitalOcean credentials:
 
